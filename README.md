@@ -1,0 +1,2 @@
+# nyc-covid-student-attendance
+Final project for Statistical Consulting at NYU Steinhardt, Fall 2021. Analyzes NYC high school senior attendance rates before and during the  Covid-19 pandemic. Student-level data used for this project was provided by the Research Alliance for NYC Schools (RA). The data were housed on a RA server and the scripts were used in conjunction with SSHFS drive mapping to ensure data never left the server, as per RA's agreement with the NYC Department of Education. CityHealth data is public and provided in the repository. 
